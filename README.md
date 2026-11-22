@@ -1,16 +1,14 @@
-## Hi there 👋
+## こんにちは 👋
 
-<!--
-**import-21/import-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+インフラエンジニアです。オンプレミスのサーバー運用を軸に、趣味で Django / Python 3 を使った Web 開発もしています。
 
-Here are some ideas to get you started:
+## 技術スタック
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+## できること
+
+- オンプレミスサーバーの構築・運用
+- Python 3 / Django による Web アプリ開発
